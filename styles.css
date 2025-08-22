@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #cf4905;
+    --laranja-claro: #963200;
     --alto-contraste-fundo: #b88a26;
     --alto-contraste-texto: #137e70;
-    --alto-contraste-link: #810d0d;
+    --alto-contraste-link: #e0b233;
 }
 
 body {
@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #863607;
+    background-color: #8f3e10;
 }
 
 
@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/festa\ junina\ 2.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #8b0b0b;
 
 }
 
